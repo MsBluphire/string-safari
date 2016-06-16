@@ -17,7 +17,7 @@ namespace StringSafari
         public static bool HasBabyZebra(string str)
         {
             // TODO
-            return false;
+            return str.Contains("zebra");
         }
 
         /// <summary>
